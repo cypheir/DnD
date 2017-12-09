@@ -1,103 +1,103 @@
+
   __SUBSTANCE PUSHING (CYPHBREW)_________________________________________
     (Insight, Investigation/Perception/Deception)
 
       Acquiring Substances (Crime + Buying)
 
         DC:
-          A Wisdom (Insight), followed by the character's choice one of the 
-          following: Intelligence (Investigation), Wisdom (Perception), or 
+          A Wisdom (Insight), followed by the character's choice one of the
+          following: Intelligence (Investigation), Wisdom (Perception), or
           Charisma (Deception).
 
-          First you must earn a good deal. While you do this, you must avoid 
+          First you must earn a good deal. While you do this, you must avoid
           being caught.
 
         Resources:
 
-          Finding the right wholesale dealer requires one workweek of effort 
-          and 50 gp in expenses. Spending more time and money increases your 
-          chance of finding a better dealer. Add +1 to your Wisdom (Insight) 
-          check for each additional workweek spent and +1 for each additional 
+          Finding the right wholesale dealer requires one workweek of effort
+          and 50 gp in expenses. Spending more time and money increases your
+          chance of finding a better dealer. Add +1 to your Wisdom (Insight)
+          check for each additional workweek spent and +1 for each additional
           50 gp spent up to maximum of +10 for each.
 
         Resolution:
 
-            BUYING SUBSTANCES
-            ―――――――――――――――――――――――――――――――――――――――――――――――――
-            Check      Available Inventory (oz.)
-            Total      Common         Uncommon      Rare
-            ―――――――――――――――――――――――――――――――――――――――――――――――――
-            1-10       FAIL           -             -
-            10-15      (1d6)          -             -
-            16-20      (1d4 x 4)      -             -
-            21-25      x5 ->          (1d4 x 4)     -
-            26-30      x5 ->          (2d10 x 3)    -
-            31-35      x5 ->          x5 ->         (1d6)
-            36+        x5 ->          x5 ->         (1d4 x 4)
+          A character seeking to buy substances makes a Wisdom (Insight) check
+          to determine the quality of the seller found.
 
-              Low       =  1d6 oz.
-              Moderate  =  1d4 x 4 oz.
-              Plentiful =  2d10 x 3 oz.
-
-            SUBSTANCE PRICING
-            ――――――――――――――――――――――――――――――――――――――――――――――――――――
-            Rarity       Street Price/oz.     Acquired Price/oz.
-            ――――――――――――――――――――――――――――――――――――――――――――――――――――
-            Common           50 gp                (1d10 x 5) gp
-            Uncommon        200 gp               (2d10 x 10) gp
-            Rare          2,000 gp              (2d10 x 100) gp
-
-            SHOPPING CART VALUE
-            ――――――――――――――――――――――――――――――――――――――――――――――――――――
-            DC       Weight
-            ――――――――――――――――――――――――――――――――――――――――――――――――――――
-            5          1 oz.
-            10        16 oz. (1 lb.)
-            15        64 oz. (4 lbs.)
-            20       128 oz. (8 lbs.)
-            25       256 oz. (16 lbs.)
-            30       512 oz. (32 lbs.)
-
-          A character seeking to buy substances makes a Wisdom (Insight) 
-          check to determine the quality of the seller found.
-
-          As a further option to reflect regional availability, the GM can 
-          apply a negative or positive modifier to the required check. 
-          Furthermore, you can double substance costs in areas of low 
+          As a further option to reflect regional availability, the GM can
+          apply a negative or positive modifier to the required check.
+          Furthermore, you can double substance costs in areas of low
           availability.
 
-          Using the Buying Substances table, you can determine what is 
-          available for the character to buy. Then use the Substance Pricing 
+          Using the Buying Substances table, you can determine what is
+          available for the character to buy. Then use the Substance Pricing
           table to assign prices to the items, based on their rarity.
 
-          You have the final say in determining which items are for sale and 
+              BUYING SUBSTANCES
+              ―――――――――――――――――――――――――――――――――――――――――――――――――
+              Check      Available Inventory (oz.)
+              Total      Common         Uncommon      Rare
+              ―――――――――――――――――――――――――――――――――――――――――――――――――
+              1-10       FAIL           -             -
+              10-15      (1d6)          -             -
+              16-20      (1d4 x 4)      -             -
+              21-25      x5 ->          (1d4 x 4)     -
+              26-30      x5 ->          (2d10 x 3)    -
+              31-35      x5 ->          x5 ->         (1d6)
+              36+        x5 ->          x5 ->         (1d4 x 4)
+
+                Low       =  1d6 oz.
+                Moderate  =  1d4 x 4 oz.
+                Plentiful =  2d10 x 3 oz.
+
+              SUBSTANCE PRICING
+              ――――――――――――――――――――――――――――――――――――――――――――――――――――
+              Rarity       Street Price/oz.     Acquired Price/oz.
+              ――――――――――――――――――――――――――――――――――――――――――――――――――――
+              Common           50 gp                (1d10 x 5) gp
+              Uncommon        200 gp               (2d10 x 10) gp
+              Rare          2,000 gp              (2d10 x 100) gp
+
+          You have the final say in determining which items are for sale and
           their final price, no matter what the tables say.
 
-          If a character seeks a specific substance, first make sure it's 
-          available in that area. If so, include the desired item for sale on 
-          a check of 15 or higher for common, 25 or higher for uncommon, and 
+          If a character seeks a specific substance, first make sure it's
+          available in that area. If so, include the desired item for sale on
+          a check of 15 or higher for common, 25 or higher for uncommon, and
           45 or higher for rare.
 
-          After the character finalizes his purchase use the Shopping Cart 
-          Value table to determine the value of the character's Intelligence 
-          (Investigation), Wisdom (Perception), or Charisma (Deception) 
-          check.
+          After the character finalizes his purchase use the Shopping Cart
+          Value table to determine the value of the character's Intelligence
+          (Investigation), Wisdom (Perception), or Charisma (Deception) check.
 
-          As a further option to reflect variable local law enforcement or 
-          social acceptance of the substance, the GM can apply a negative or 
+              SHOPPING CART VALUE
+              ――――――――――――――――――――――――――――――――――――――――――――――――――――
+              DC       Weight
+              ――――――――――――――――――――――――――――――――――――――――――――――――――――
+              5          1 oz.
+              10        16 oz. (1 lb.)
+              15        64 oz. (4 lbs.)
+              20       128 oz. (8 lbs.)
+              25       256 oz. (16 lbs.)
+              30       512 oz. (32 lbs.)
+
+          As a further option to reflect variable local law enforcement or
+          social acceptance of the substance, the GM can apply a negative or
           positive modifier to the required check.
 
-          If both checks are unsuccessful, the character is caught and jailed. 
-          The character must pay a fine equal to the street value of all 
-          substances on hand and must spend one week in jail for each 25 gp of 
-          the fine.
+          If only the one first check is successful, the character purchases
+          the desired product but loses it upon escaping a mishap.
 
-          If only one first check is successful, the character purchases the 
-          desired product but loses it upon escaping a mishap.
-
-          If only the second check is successful, the character finds no 
+          If only the second check is successful, the character finds no
           substance dealers but also raises no suspicion.
 
-          If both checks are successful, the character purchases the desired 
+          If both checks are unsuccessful, the character is caught and jailed.
+          The character must pay a fine equal to the street value of all
+          substances on hand and must spend one week in jail for each 25 gp
+          of the fine.
+
+          If both checks are successful, the character purchases the desired
           product successfully.
 
         Complications:
@@ -106,10 +106,10 @@
             - Both DC's failed
             - One roll failed, and has a rival involved in law or crime.
 
-          Acquiring substances can be filled with complications. Roll on the 
-          Acquiring Substances Complications table (or create a complication 
-          of your own) if the character fails both checks. If the character’s 
-          rival is involved in crime or law enforcement, a complication ensues 
+          Acquiring substances can be filled with complications. Roll on the
+          Acquiring Substances Complications table (or create a complication
+          of your own) if the character fails both checks. If the character’s
+          rival is involved in crime or law enforcement, a complication ensues
           if the character fails either check.
 
             ACQUIRING SUBSTANCES COMPLICATIONS
@@ -140,23 +140,23 @@
         DC: Charisma (Persuasion)
 
         Resources:
-          Substance pushing, or product slanging covers a workweek of fine 
-          food, strong drink, and socializing. A character can attempt to 
-          entice lower-, middle-, or upper-class folk to buy product. A 
-          character can blend in with the lower class for 10 gp to cover 
-          expenses, or 50 gp for the middle class. Pushing amongst the upper 
-          class requires 250 gp for the workweek and access to the local 
+          Substance pushing, or product slanging covers a workweek of fine
+          food, strong drink, and socializing. A character can attempt to
+          entice lower-, middle-, or upper-class folk to buy product. A
+          character can blend in with the lower class for 10 gp to cover
+          expenses, or 50 gp for the middle class. Pushing amongst the upper
+          class requires 250 gp for the workweek and access to the local
           nobility.
 
-          A character with the noble background can mingle with the upper 
-          class, but other characters can do so only if you judge that the 
-          character has made sufficient contacts. Alternatively, a character 
-          might use a disguise kit and the Deception skill to pass as a noble 
+          A character with the noble background can mingle with the upper
+          class, but other characters can do so only if you judge that the
+          character has made sufficient contacts. Alternatively, a character
+          might use a disguise kit and the Deception skill to pass as a noble
           visiting from a distant city.
 
         Resolution:
-          After a workweek of substance pushing, a character stands to reach 
-          customers within the selected social class. The character makes a 
+          After a workweek of substance pushing, a character stands to reach
+          customers within the selected social class. The character makes a
           Charisma (Persuasion) check using the Substance Pushing table.
 
 
@@ -180,42 +180,83 @@
             Rare          2,000 gp           (1d20+12 x 100) gp
 
 
-          Substance buyers are NPC customers who will discretely buy grey 
-          market goods from the character when offered. A hostile contact is a 
-          person who, for one reason or another, now bears a grudge against the 
-          pusher. A hostile contact works against the character, placing 
+          Substance buyers are NPC customers who will discretely buy grey
+          market goods from the character when offered. A hostile contact is
+          a person who, for one reason or another, now bears a grudge against
+          the pusher. A hostile contact works against the character, placing
           obstacles but stopping short of committing a crime or a violent act.
 
-          Lower—class (1) (10gp/week) customers include criminals, laborers, 
-          mercenaries, the town guard, and any other folk who normally frequent 
-          the cheapest taverns in town. They can afford common rarity drugs.
+          (1) Lower—class (10gp/week) customers include criminals, laborers,
+          mercenaries, the town guard, and any other folk who normally
+          frequent the cheapest taverns in town. They can afford common
+          rarity drugs.
 
-          Middle-class (2) (50gp/week) customers include guild members, 
-          spell-casters, town officials, and other folk who frequent well—kept 
-          establishments. They can afford up to uncommon rarity drugs and more 
+            *Note: For each workweek you are selling to the Lower-class, you
+            can also preform the Acquiring Substances activity. This will
+            double your risk of complications and only work with the
+            Lower-class.
+
+          (2) Middle-class (50gp/week) customers include guild members,
+          spell-casters, town officials, and other folk who frequent well—kept
+          establishments. They can afford up to uncommon rarity drugs and more
           of them.
 
-          Upper-class (3) (250gp/week) customers are nobles and their personal 
-          servants. Providing goods to such folk at formal banquets, state 
-          dinners, and the like. They can afford any rarity drugs, and only the 
-          rarest drugs can serve as a status symbol.
+          (3) Upper-class (250gp/week) customers are nobles and their personal
+          servants. Providing goods to such folk at formal banquets, state
+          dinners, and the like. They can afford any amount of drugs, but
+          only the rarest of drugs can serve as a status symbol.
 
         Complications:
 
-            SUBSTANCE SALE COMPLICATIONS
-            ―――――――――――――――――――――――――――――――――――――――――――――――――
-            d8          Complication
-            ―――――――――――――――――――――――――――――――――――――――――――――――――
-            l       A bounty equal to your earnings is offered for information
-                    about your crime.*
-            2       A thieves’ guild, alerted to the sale, attempts to
-                    steal your substances.*
-            3       One of your customers overdoses, their parent swears
-                    revenge.
-            4       A foe circulates rumors that your item is a fake.*
-            5       The buyer is murdered before the sale is finalized.*
-            6       Your victim is financially ruined by your dealings.
-            7       A local crime lord has taken notice of you providing
-                    goods to his customers.
-            8       Your enemy secretly arranges to buy the item to
-                    use it against you.*
+          LOWER-CLASS SLANGING COMPLICATIONS
+          ―――――――――――――――――――――――――――――――――――――――――――――――――
+          d8        Complication
+          ―――――――――――――――――――――――――――――――――――――――――――――――――
+          1       A pickpocket lifts 1d10 x 5 gp from you.*
+          2       A bar brawl leaves you with a scar.*
+          3       A buyer is murdered before the sale is finalized.*
+          4       You are banned from a tavern after some obnoxious behavior.*
+          5       After a few drinks, you swore in the town square to
+                  pursue a dangerous quest.
+          6       One of your customers overdoses, their family member swears
+                  revenge on you.
+          7       A competitor circulates rumors that your goods are fake.*
+          8       A bounty equal to your earnings is offered for information
+                  about your work.*
+
+          MIDDLE-CLASS SLANGING COMPLICATIONS
+          ―――――――――――――――――――――――――――――――――――――――――――――――――
+          d8        Complication
+          ―――――――――――――――――――――――――――――――――――――――――――――――――
+          1       You accidentally insulted a guild master, and only
+                  a public apology will let you do business with the
+                  guild again.*
+          2       You swore to complete some quest on behalf of a
+                  temple or a guild.
+          3       A local crime lord has taken notice of you providing
+                  goods to his customers.
+          4       A competitor circulates rumors that your goods are fake.*
+          5       A bounty equal to your earnings is offered for information
+                  about your work.*
+          6       A thieves’ guild, alerted to the sale, attempts to
+                  steal your product.*
+          7       You made a drunken toast that scandalized the locals.
+          8       You spent an additional 100 gp trying to impress people.
+
+          UPPER-CLASS SLANGING COMPLICATIONS
+          ―――――――――――――――――――――――――――――――――――――――――――――――――
+          d8        Complication
+          ―――――――――――――――――――――――――――――――――――――――――――――――――
+          1       One of your customers overdoses, their family member swears
+                  revenge on you.
+          2       Your enemy secretly arranges to buy the item to
+                  use it against you.*
+          3       A buyer is murdered before the sale is finalized.*
+          4       You have been challenged to a joust by a knight.*
+          5       You have made a foe out of a local noble.*
+          6       Your customer is financially ruined by addiction.
+          7       You have become the target of a variety of
+                  embarrassing rumors.*
+          8       You spent an additional 500 gp trying to impress people.
+
+          *Might involve a rival
