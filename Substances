@@ -1,0 +1,163 @@
+  SUBSTANCES
+
+    Pipeweed (tobacco):
+      - Description: Smoking tobacco is general accepted as common behavior.
+                      and pervades all levels of society. Dried leaves are
+                      shredded in various styles and smoked in a pipe.
+          Cost: Common 5 silver, Uncommon 1 gold, Rare 1 platinum
+          Rarity: Common to rare.
+          Climate: Temperate
+
+      - Effects:
+          Duration: 4 hours
+          Positive A (Major): none
+          Positive B (Minor): Advantage on concentration saves
+          Negative B (Minor): Ritual spells take 5 extra minutes
+
+      - Addiction Save:
+          DC 5 + Addiction Counter
+
+      - Addiction Effects (for 0-10 counters):
+          Base: 0-2
+                  Effectiveness: Works as expected.
+                  Withdrawal Effects (Negative A): Disadvantage on
+                    concentration saves and not able to cast rituals (Unless
+                    consumed in last 24 hours)
+
+          Addict: example 4-6
+                  Effectiveness: Less Effective, effects only lasts 3 hours.
+                  Withdrawal Effects (Negative A): Disadvantage on
+                    concentration saves and not able to cast rituals (Unless
+                    consumed in last 12 hours)
+
+          Junkie: example 7-10
+                  Effectiveness: Less Effective, effects only lasts 2 hours.
+                  Withdrawal Effects (Negative A): Disadvantage on
+                    concentration saves and not able to cast rituals (Unless
+                    consumed in last 6 hours)
+
+      - On A Rest:
+          Roll addiction save:
+            On Success: Remove 1 from the addiction counter
+            On Fail: No Penalty
+
+    Elven Pipeweed (mj):
+      - Description: A rare lichen which grows on the trees of some jungles and
+        forests, dried and smoked in a pipe. Produces a numbing as well as a
+        minor hallucinogenic effect, usually illegal.
+          Cost: 1gp - 5gp, Only Acquired Around Elves
+          Rarity: Common
+          Climate: Forest
+
+      - Effects:
+          Duration: 2 hours
+          Positive A (Major): Resistance to bludgeoning, piercing,
+            slashing, force and thunder damage.
+          Positive B (Minor):
+          Negative B (Minor): -2 initiative, weakness to psychic damage.
+
+      - Addiction Save: DC 8 + Addiction Counter
+
+      - Addiction Effects (for 0-10 counters):
+          Base: 0-2
+                  Effectiveness: Works as expected.
+                  Withdrawal Effects (Negative A): The -2 to initiative
+                    persists for 2 more hours after the effects of the
+                    drug have worn off.
+
+          Addict: 3-7
+                  Effectiveness: Works as expected, but -4 initiative and
+                    disadvantage on dexterity saves.
+                  Withdrawal Effects (Negative A): The negatives in the
+                    above line persist for 2 more hours after the effects
+                    of the drug have worn off.
+
+          Junkie: example 7-10
+                  Effectiveness: Works as expected, but -6 initiative,
+                    disadvantage on reflex saves, and slowed.
+                  Withdrawal Effects (Negative A): The negatives in the
+                    above line persist for 2 more hours after the effects
+                    of the drug have worn off.
+
+      - On A Rest:
+          Roll addiction save:
+            On Success: On a Success: Remove 1 from the addiction counter.
+            On Fail: -2 Initiative for the next day.
+
+    Goedeke Pills (speed):
+      - Description: Powder refined from Goedeke leaves is combined with bone
+        meal and pressed into pressed into pills.
+          Cost: 5 sp - 3 gp
+          Rarity: Common
+          Climate: Temperate, Tropical
+
+      - Effects:
+          Duration: 2 hours
+          Positive A (Major): +10 Speed
+          Positive B (Minor): Immune to effects of exhaustion
+          Negative B (Minor): none
+
+      - Addiction Save:
+          DC 10 + Addiction Counter
+
+      - Addiction Effects (for 0-10 counters):
+          Base: 0-3
+                  Effectiveness: Works as expected.
+                  Withdrawal Effects (Negative A): +1 exhaustion.
+
+          Addict: 4-6
+                  Effectiveness: Less Effective, only +5 Speed (double dose for
+                    +10), still immune to exhaustion effects.
+                  Withdrawal Effects (Negative A): -2 Charisma checks, +2 to
+                    exhaustion.
+
+          Junkie: 7-10
+                  Effectiveness: Less Effective, only +0 Speed (double dose for
+                    +5, triple +10), still immune to exhaustion effects.
+                  Withdrawal Effects (Negative A): -4 Charisma Checks, +3 to
+                    exhaustion.
+
+      - On A Rest:
+          Roll addiction save:
+            On Success: Remove 1 from the addiction counter.
+            On Fail: +1 Exhaustion.
+
+    Angel Tears (pcp):
+      - Description: Squeeze from small dark-purple berries, its thick juice
+            can be dried into sap-like form or applied to tobacco leaves, dried
+            and smoked.
+          Cost: Costs roughly 5gp a dose, found in dodgy back alleys
+          Rarity: Uncommon
+          Climate:
+
+      - Effects:
+          Duration: 2 hours
+          Positive A (Major): If your hit points go below 0, set your temporary
+            hp to 10. On your next turn roll a death save, if you succeed and
+            still have temporary hp you remain conscious. If you fail 3 death
+            saves or run out of temporary hp you die. If you roll 3 successes,
+            you stabilize to 1 hp and keep your temporary hp until combat ends
+            or the substance effect wears off.
+          Positive B (Minor): +2 Perception checks in dim/low lighting.
+          Negative B (Minor): -2 Perception checks in normal lighting, -4 in
+            bright environments.
+
+      - Addiction Save: DC 15+ Addiction Counter
+
+      - Addiction Effects (for 0-10 counters):
+          Base: 0-2
+                  Effectiveness: Works as expected.
+                  Withdrawal Effects (Negative A):
+
+          Addict: 3-6
+                  Effectiveness: Works less than expected.
+                  Withdrawal Effects (Negative A):
+
+          Junkie: 7-10
+                  Effectiveness: Works less than expected.
+                  Withdrawal Effects (Negative A):
+
+      - On A Rest:
+          Roll addiction save:
+            On Success:
+            On Fail:
