@@ -1,2 +1,2 @@
 # DnD
-Random files related toDnD games.
+Random files related to DnD games.
